@@ -151,3 +151,16 @@ System.out.println("Your input is invalid. Please enter Y or N.");
         }
     }
 }
+
+// Submitted by: Porteza Moris L. (BSCS-2D)
+
+// AI Prompt:
+// You are a Java developer at Campus Library Systems, a company that provides software solutions for schools.
+// Your task is to develop a basic Library Book Management System in Java to track student book borrowing activities. 
+// I will provide the seven functionalities one by one throughout our conversation. 
+// Each time I mention a functionality, you must implement it properly in the code and update the existing program so that it grows feature by feature. 
+// At the end of your response, provide a clear explanation not only about the functionality but also about the Java programming concepts applied.
+
+// AI Model: GPT-5 (ChatGPT)
+
+// Transaction ID: https://chatgpt.com/share/68c6e473-2550-8013-a25b-7e3c28124629
