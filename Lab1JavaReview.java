@@ -11,7 +11,6 @@ int choice;
 boolean exitProgram=false;
 
 do {
-// Display menu
 System.out.println("⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀              ⣠⣤⣶⣶⣶⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ");
 System.out.println("⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢦⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣤⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
 System.out.println("⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
@@ -152,7 +151,7 @@ System.out.println("Your input is invalid. Please enter Y or N.");
     }
 }
 
-// Submitted by: Porteza Moris L. (BSCS-2D)
+// Submitted by: Porteza, Moris L. (BSCS-2D)
 
 // AI Prompt:
 // You are a Java developer at Campus Library Systems, a company that provides software solutions for schools.
