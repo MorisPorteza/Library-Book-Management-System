@@ -7,7 +7,7 @@ and menu-driven interaction.
 
 ## Features
 - Main menu handled using switch-case
-- Add new books with default status "Available" (maximum of 5 books)
+- Add new books with default status "Available" 
 - Update book status between "Available" and "Borrowed"
 - Display all stored books with title and status
 - Generate a report showing total, available, and borrowed books
