@@ -1,4 +1,4 @@
-# Laboratory Activity #1 (Java Programming Review) - Library Book Management System 
+# Laboratory Activity #1 (Java Programming Review): Library Book Management System 
 
 ## Overview
 A simple Java-based Library Book Management System for Campus Library Systems.
